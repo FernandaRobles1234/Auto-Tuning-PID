@@ -1,6 +1,6 @@
 # Auto-Tuning-PID
 
-Dynamic programing proyect
+Dynamic programming proyect
 
 1- Open the files ”Approx2”, ”Exactmethod2”, ”Simulation” with MATLAB and Simulink.
 
